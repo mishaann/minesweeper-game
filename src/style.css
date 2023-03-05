@@ -7,7 +7,8 @@
 }
 .container {
   position: fixed;
-  left: 30%;
+  left: 37%;
+  top: 20%;
 }
 
 .timer-mins {
